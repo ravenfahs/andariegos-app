@@ -1,0 +1,4 @@
+[2022-09-25 22:25:22.059] [main] [info] update#setState idle
+[2022-09-25 22:25:23.918] [main] [info] Starting extension host with pid 10659 (fork() took 8 ms).
+[2022-09-25 22:25:25.313] [main] [info] Waiting for extension host with pid 10659 to exit.
+[2022-09-25 22:25:25.350] [main] [info] Extension host with pid 10659 exited with code: 0, signal: null.

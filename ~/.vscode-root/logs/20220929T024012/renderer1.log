@@ -1,0 +1,132 @@
+[2022-09-29 02:40:17.192] [renderer1] [error] Unable to figure out browser width and height: Error: Unable to figure out browser width and height
+    at B (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:30892)
+    at w.load (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1728:77798)
+    at P.initLayoutState (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:13672)
+    at P.initLayout (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:9093)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:70173
+    at v.invokeFunction (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:325)
+    at P.startup (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:70004)
+    at ie.open (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3112:54191)
+    at async vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/bootstrap-window.js:1:3252
+[2022-09-29 02:40:17.200] [renderer1] [error] Cannot read properties of undefined (reading 'runtime'): TypeError: Cannot read properties of undefined (reading 'runtime')
+    at P.onWindowFocusChanged (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:11872)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:10610
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23814
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23462
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at Y (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:3459)
+    at T.onResponse (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4375)
+    at T.onBuffer (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4225)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:1817
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at EventEmitter.ne (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:25646)
+    at EventEmitter.emit (node:events:526:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:81:794)
+[2022-09-29 02:40:18.414] [renderer1] [critical] Cannot instantiate named customer: 'MainThreadUrls'
+[2022-09-29 02:40:18.414] [renderer1] [critical] {}
+[2022-09-29 02:40:18.414] [renderer1] [error] Cannot read properties of undefined (reading 'dispose'): TypeError: Cannot read properties of undefined (reading 'dispose')
+    at get cache [as cache] (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1966:1682)
+    at new P (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1958:26094)
+    at v._createInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:1346)
+    at v._createServiceInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:3757)
+    at v._createServiceInstanceWithOwner (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:3267)
+    at v._createAndCacheServiceInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:2942)
+    at v._safeCreateAndCacheServiceInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:2140)
+    at v._getOrCreateServiceInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:1861)
+    at v._createInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:947)
+    at v.createInstance (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:600:779)
+    at Rs._createExtensionHostCustomers (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1966:7767)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1966:5199
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-29 02:40:18.443] [renderer1] [error] Missing proxy instance MainThreadUrls: Error: Missing proxy instance MainThreadUrls
+    at m.assertRegistered (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:9901)
+    at Rs._createExtensionHostCustomers (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1966:8265)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1966:5199
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-29 02:40:18.449] [renderer1] [error] Cannot get default system shell when there is no backend for remote authority 'undefined': Error: Cannot get default system shell when there is no backend for remote authority 'undefined'
+    at Object.getDefaultSystemShell (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2105:2232)
+    at u._getUnresolvedFallbackDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:87991)
+    at u._getUnresolvedDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:86764)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async u.getDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:85820)
+    at async Promise.all (index 0)
+    at async d._updateDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:58682)
+[2022-09-29 02:40:18.649] [renderer1] [error] Cannot get default system shell when there is no backend for remote authority 'undefined': Error: Cannot get default system shell when there is no backend for remote authority 'undefined'
+    at Object.getDefaultSystemShell (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2105:2232)
+    at u._getUnresolvedFallbackDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:87991)
+    at u._getUnresolvedDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:86764)
+    at async u.getDefaultProfile (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:85820)
+    at async u._refreshDefaultProfileName (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2098:84327)
+[2022-09-29 02:40:25.470] [renderer1] [error] Cannot read properties of undefined (reading 'runtime'): TypeError: Cannot read properties of undefined (reading 'runtime')
+    at P.onWindowFocusChanged (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:11872)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:10610
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23814
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23462
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at Y (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:3459)
+    at T.onResponse (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4375)
+    at T.onBuffer (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4225)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:1817
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at EventEmitter.ne (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:25646)
+    at EventEmitter.emit (node:events:526:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:81:794)
+[2022-09-29 02:40:27.977] [renderer1] [error] Cannot read properties of undefined (reading 'runtime'): TypeError: Cannot read properties of undefined (reading 'runtime')
+    at P.onWindowFocusChanged (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:11872)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3062:10610
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23814
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23462
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:23658
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at Y (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:3459)
+    at T.onResponse (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4375)
+    at T.onBuffer (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:4225)
+    at vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:1817
+    at S.invoke (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at EventEmitter.ne (vscode-file://vscode-app/snap/code/108/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:81:25646)
+    at EventEmitter.emit (node:events:526:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:81:794)

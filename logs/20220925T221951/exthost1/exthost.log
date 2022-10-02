@@ -1,0 +1,4 @@
+[2022-09-25 22:19:53.569] [exthost] [info] Extension host with pid 9228 started
+[2022-09-25 22:19:53.569] [exthost] [info] Skipping acquiring lock for /root/reactive/andariegos/andariegos/User/workspaceStorage/546e92292cdfc6ec2ae82e7563c55502.
+[2022-09-25 22:20:10.918] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-09-25 22:20:10.919] [exthost] [info] Extension host with pid 9228 exiting with code 0

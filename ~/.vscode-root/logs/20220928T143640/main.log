@@ -1,0 +1,90 @@
+[2022-09-28 14:36:40.649] [main] [trace] [File Watcher (node.js)] Request to start watching: /root/reactive/andariegos/andariegos/~/.vscode-root/User (excludes: <none>, includes: <all>),/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json (excludes: <none>, includes: <all>)
+[2022-09-28 14:36:40.651] [main] [debug] Starting VS Code
+[2022-09-28 14:36:40.651] [main] [debug] from: /snap/code/108/usr/share/code/resources/app
+[2022-09-28 14:36:40.651] [main] [debug] args: {"_":[],"diff":false,"merge":false,"add":false,"goto":true,"new-window":false,"reuse-window":false,"wait":false,"user-data-dir":"~/.vscode-root","help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-gpu":false,"ms-enable-electron-run-as-node":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"disable-keytar":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"crash-reporter-id":"22c767b2-3dd2-4a47-a342-ceefe056b8c0","skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"trace":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"__enable-file-policy":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640"}
+[2022-09-28 14:36:40.651] [main] [trace] Resolving machine identifier...
+[2022-09-28 14:36:40.651] [main] [trace] Resolved machine identifier: f93c93a7c23dcbca31c389ba70a47e8b87bd31ab6d2dd96ca26880545e413119
+[2022-09-28 14:36:40.651] [main] [trace] Main->SharedProcess#connect
+[2022-09-28 14:36:40.655] [main] [trace] [File Watcher (node.js)] Started watching: '/root/reactive/andariegos/andariegos/~/.vscode-root/User'
+[2022-09-28 14:36:40.656] [main] [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json'
+[2022-09-28 14:36:40.943] [main] [trace] StorageMainService: creating application storage
+[2022-09-28 14:36:40.950] [main] [info] update#setState idle
+[2022-09-28 14:36:40.958] [main] [trace] lifecycle (main): phase changed (value: 2)
+[2022-09-28 14:36:40.960] [main] [trace] windowsManager#open
+[2022-09-28 14:36:40.967] [main] [trace] windowsManager#open pathsToOpen [{"workspace":{"id":"546e92292cdfc6ec2ae82e7563c55502","uri":{"$mid":1,"fsPath":"/root/reactive/andariegos/andariegos","path":"/root/reactive/andariegos/andariegos","scheme":"file"}},"type":2,"exists":true}]
+[2022-09-28 14:36:40.971] [main] [trace] windowsManager#doOpenFolderOrWorkspace {"folderOrWorkspace":{"workspace":{"id":"546e92292cdfc6ec2ae82e7563c55502","uri":{"$mid":1,"fsPath":"/root/reactive/andariegos/andariegos","external":"file:///root/reactive/andariegos/andariegos","path":"/root/reactive/andariegos/andariegos","scheme":"file"}},"type":2,"exists":true}}
+[2022-09-28 14:36:40.975] [main] [trace] IPC Object URL: Registered new channel vscode:590a9c82-d836-4acc-b80a-de7bf2922a41.
+[2022-09-28 14:36:40.976] [main] [trace] window#validateWindowState: validating window state on 1 display(s) {"mode":1,"x":206,"y":237,"width":1024,"height":481}
+[2022-09-28 14:36:40.977] [main] [trace] window#validateWindowState: 1 monitor working area {"x":0,"y":27,"width":1366,"height":691}
+[2022-09-28 14:36:40.977] [main] [trace] window#ctor: using window state {"mode":1,"x":206,"y":237,"width":1024,"height":481}
+[2022-09-28 14:36:41.051] [main] [trace] window#load: attempt to load window (id: 1)
+[2022-09-28 14:36:41.064] [main] [trace] StorageMainService: creating workspace storage (546e92292cdfc6ec2ae82e7563c55502)
+[2022-09-28 14:36:41.065] [main] [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 1, emptyToRestore: 0, emptyToOpen: 0)
+[2022-09-28 14:36:41.065] [main] [trace] lifecycle (main): phase changed (value: 3)
+[2022-09-28 14:36:41.065] [main] [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+[2022-09-28 14:36:41.218] [main] [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+[2022-09-28 14:36:41.687] [main] [trace] [Disk FileSystemProvider]: atomic read operation started (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:41.687] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - request to acquire resource lock (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:41.688] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - new resource lock created (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:41.689] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock dispose() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:41.689] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock removed from resource-lock map (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:41.689] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock barrier open() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:42.212] [main] [trace] [Disk FileSystemProvider]: atomic read operation started (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.212] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - request to acquire resource lock (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.212] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - new resource lock created (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.213] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock dispose() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.213] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock removed from resource-lock map (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.213] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock barrier open() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/keybindings.json)
+[2022-09-28 14:36:42.284] [main] [info] Starting extension host with pid 21284 (fork() took 7 ms).
+[2022-09-28 14:36:42.812] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - request to acquire resource lock (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.812] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - new resource lock created (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.813] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - request to acquire resource lock (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:42.813] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - new resource lock created (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:42.813] [main] [trace] [Disk FileSystemProvider]: open() - storing lock for handle 93 (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.813] [main] [trace] [Disk FileSystemProvider]: open() - storing lock for handle 96 (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: close() - resource lock removed from handle-lock map 93
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: close() - disposing lock for handle 93
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock dispose() (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock removed from resource-lock map (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock barrier open() (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/tasks.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: close() - resource lock removed from handle-lock map 96
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: close() - disposing lock for handle 96
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock dispose() (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock removed from resource-lock map (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:42.881] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock barrier open() (/root/reactive/andariegos/andariegos/~/.vscode-root/logs/20220928T143640/output_1_20220928T143642/extensions.log)
+[2022-09-28 14:36:43.659] [main] [trace] SharedProcess: on vscode:createSharedProcessMessageChannel
+[2022-09-28 14:36:43.660] [main] [trace] IPC Object URL: Registered new channel vscode:91cd31e6-c3eb-4c21-810c-d6ae9f0f470b.
+[2022-09-28 14:36:43.884] [main] [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+[2022-09-28 14:36:44.021] [main] [trace] SharedProcess: IPC ready
+[2022-09-28 14:36:44.035] [main] [trace] Main->SharedProcess#connect: connection established
+[2022-09-28 14:36:44.042] [main] [trace] [Disk FileSystemProvider]: atomic read operation started (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.042] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - request to acquire resource lock (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.043] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - new resource lock created (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.044] [main] [trace] [File Watcher (node.js)] Request to start watching: /root/reactive/andariegos/andariegos/~/.vscode-root/User (excludes: <none>, includes: <all>),/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json (excludes: <none>, includes: <all>)
+[2022-09-28 14:36:44.044] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock dispose() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.044] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock removed from resource-lock map (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.044] [main] [trace] [Disk FileSystemProvider]: createResourceLock() - resource lock barrier open() (/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json)
+[2022-09-28 14:36:44.046] [main] [trace] [File Watcher (node.js)] Started watching: '/root/reactive/andariegos/andariegos/~/.vscode-root/User'
+[2022-09-28 14:36:44.047] [main] [trace] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json'
+[2022-09-28 14:36:44.089] [main] [trace] SharedProcess: Overall ready
+[2022-09-28 14:36:44.424] [main] [trace] SharedProcess: onWorkerConnection {"process":{"moduleId":"vs/platform/files/node/watcher/watcherMain","type":"fileWatcher"},"reply":{"windowId":1,"channel":"vscode:createSharedProcessWorkerMessageChannelResult","nonce":"00d8e8c6-1e83-4ab0-b53f-322f074cee0c"}}
+[2022-09-28 14:36:44.790] [main] [trace] Lifecycle#window.on('close') - window ID 1
+[2022-09-28 14:36:44.791] [main] [trace] Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+[2022-09-28 14:36:44.793] [main] [trace] IPC Object URL: Removed channel vscode:590a9c82-d836-4acc-b80a-de7bf2922a41.
+[2022-09-28 14:36:44.793] [main] [trace] Lifecycle#window.on('closed') - window ID 1
+[2022-09-28 14:36:44.793] [main] [trace] Lifecycle#onWillShutdown.fire()
+[2022-09-28 14:36:44.795] [main] [trace] IPC Object URL: Removed channel vscode:91cd31e6-c3eb-4c21-810c-d6ae9f0f470b.
+[2022-09-28 14:36:44.795] [main] [trace] storageMainService#onWillShutdown()
+[2022-09-28 14:36:44.796] [main] [info] Waiting for extension host with pid 21284 to exit.
+[2022-09-28 14:36:44.796] [main] [trace] SharedProcess: disposing worker (reason: 'closed') {"process":{"moduleId":"vs/platform/files/node/watcher/watcherMain","type":"fileWatcher"},"reply":{"windowId":1,"channel":"vscode:createSharedProcessWorkerMessageChannelResult","nonce":"00d8e8c6-1e83-4ab0-b53f-322f074cee0c"}}
+[2022-09-28 14:36:44.808] [main] [trace] [File Watcher (node.js)] Request to stop watching: /root/reactive/andariegos/andariegos/~/.vscode-root/User,/root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json
+[2022-09-28 14:36:44.809] [main] [trace] [File Watcher (node.js)] stopping file watcher on /root/reactive/andariegos/andariegos/~/.vscode-root/User
+[2022-09-28 14:36:44.810] [main] [trace] [File Watcher (node.js)] stopping file watcher on /root/reactive/andariegos/andariegos/~/.vscode-root/User/settings.json
+[2022-09-28 14:36:44.822] [main] [trace] StorageMainService: closed application storage
+[2022-09-28 14:36:44.822] [main] [trace] StorageMainService: closed workspace storage (546e92292cdfc6ec2ae82e7563c55502)
+[2022-09-28 14:36:44.825] [main] [info] Extension host with pid 21284 exited with code: 0, signal: null.
+[2022-09-28 14:36:44.860] [main] [trace] Lifecycle#app.on(window-all-closed)
+[2022-09-28 14:36:44.860] [main] [trace] Lifecycle#app.on(before-quit)
+[2022-09-28 14:36:44.860] [main] [trace] Lifecycle#onBeforeShutdown.fire()
+[2022-09-28 14:36:44.861] [main] [trace] [WindowsStateHandler] onBeforeShutdown {"lastActiveWindow":{"folder":"file:///root/reactive/andariegos/andariegos","backupPath":"/root/reactive/andariegos/andariegos/~/.vscode-root/Backups/cc340f480c753cfd2a178f6d6e6a541c","uiState":{"mode":1,"x":206,"y":237,"width":1024,"height":481}},"openedWindows":[]}
+[2022-09-28 14:36:44.861] [main] [trace] Lifecycle#app.on(will-quit)

@@ -1,0 +1,4 @@
+[2022-09-29 02:45:01.803] [exthost] [info] Extension host with pid 8831 started
+[2022-09-29 02:45:01.803] [exthost] [info] Skipping acquiring lock for /root/reactive/andariegos/andariegos/~/.vscode-root/User/workspaceStorage/546e92292cdfc6ec2ae82e7563c55502.
+[2022-09-29 02:45:11.270] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-09-29 02:45:11.271] [exthost] [info] Extension host with pid 8831 exiting with code 0

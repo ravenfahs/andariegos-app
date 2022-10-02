@@ -1,0 +1,4 @@
+[2022-09-28 18:05:11.136] [main] [info] update#setState idle
+[2022-09-28 18:05:12.933] [main] [info] Starting extension host with pid 10840 (fork() took 8 ms).
+[2022-09-28 18:05:33.872] [main] [info] Waiting for extension host with pid 10840 to exit.
+[2022-09-28 18:05:33.912] [main] [info] Extension host with pid 10840 exited with code: 0, signal: null.

@@ -1,0 +1,14 @@
+[2022-09-27 01:09:43.572] [exthost] [info] Extension host with pid 47372 started
+[2022-09-27 01:09:43.572] [exthost] [info] Skipping acquiring lock for /root/reactive/andariegos/andariegos/src/componentes/User/workspaceStorage/6fc2debddfc70b2048d7c03cd966dd9e.
+[2022-09-27 01:09:43.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-27 01:09:43.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-27 01:09:43.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-27 01:09:43.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-27 01:09:43.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-27 01:09:43.993] [exthost] [info] Eager extensions activated
+[2022-09-27 01:09:43.996] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-27 01:09:44.012] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-27 01:09:44.016] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-27 01:09:44.180] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-27 01:09:45.546] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-27 01:09:45.553] [exthost] [info] Extension host with pid 47372 exiting with code 0
